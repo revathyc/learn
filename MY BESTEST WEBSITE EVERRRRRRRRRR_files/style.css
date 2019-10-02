@@ -1,0 +1,20 @@
+BODY{
+    background-color: aquamarine;
+
+}
+header {
+    grid-area: header;
+    color: white;
+    padding: 10px;
+    font-family: 'Gill Sans';
+    font-size: 200%;
+    text-align: center;
+    background-image: url('https://cdn.psychologytoday.com/sites/default/files/styles/image-article_inline_full/public/field_blog_entry_teaser_image/puppy_0.jpg?itok=z4JZm548');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
